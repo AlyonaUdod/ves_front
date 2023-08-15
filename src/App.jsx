@@ -21,7 +21,6 @@ export default function App() {
   // useEffect(() => {
   //   dispatch(fetchCurrentUser());
   // }, [dispatch]);
-
   return (
     <div>
       <Routes>
